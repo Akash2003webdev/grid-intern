@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "Ak";
+    src: url("./BrotherSignature-7BWnK.otf");
+}
+.navbar-brand{
+    font-family: Ak;
+    font-size: 3rem;
+}
+.row{
+    margin-top: 0.5rem;
+    
+}
+img{
+    object-fit: cover;
+   
+}
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+.ink{
+    height:300px;
+}
+.pic{
+    height:290px;
+
+}
+.pic-1{
+    height:160px;
+
+}
+
+
+@media(max-width:600px){
+
+    
+  .row{
+    padding: 0.7rem;
+    margin-top: 0rem;
+  }
+  .item{
+    margin-bottom: 0px;
+  }
+    
+ 
+  
+}
